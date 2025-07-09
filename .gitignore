@@ -5,6 +5,7 @@ __pycache__/
 output
 *.jpg
 *.png
+!app_screenshot.png
 *.gif
 .vscode/
 .DS_Store
